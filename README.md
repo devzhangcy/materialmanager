@@ -1,0 +1,2 @@
+# materialmanager
+一个winform开发的简易材料管理系统
